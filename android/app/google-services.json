@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649043305914",
+    "firebase_url": "https://dev-shopisan.firebaseio.com",
+    "project_id": "dev-shopisan",
+    "storage_bucket": "dev-shopisan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649043305914:android:b44328de4a4d30d6b9e983",
+        "android_client_info": {
+          "package_name": "co.devalex.dev_shopisan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649043305914-rk0psv8qr24eg9m63jrukd8kaik596e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkTiy8JGl_SeugaVuEd4deHuFgM-VoQrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649043305914-rk0psv8qr24eg9m63jrukd8kaik596e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
